@@ -1,0 +1,11 @@
+pyspark
+xgboost
+scikit-learn
+streamlit
+folium
+matplotlib
+seaborn
+plotly
+pandas
+numpy
+Pillow
